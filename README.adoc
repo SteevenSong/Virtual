@@ -19,7 +19,7 @@ Dans le cadre de mon projet Virtual landscape-master, l'objectif était de nous 
 J'ai avant tout appris les bases de canvas afin de me faire une idée de comment utiliser l'application. Ensuite j'ai reflechis sur mon thème et je me dirige finalement vers le thème de l'espace. Pourquoi ? Car ce theme utilise principalement les bases de canvas qui me permet donc de consolider les bases sans non plus poussé le projet trop loin.
 ----
 
-IMPORTANT: Lien GitLab :
+IMPORTANT: Lien GitLab : https://gitlab.com/SteevenSong/Virtual.git
 
 == *I. Creation du projet* +
 
